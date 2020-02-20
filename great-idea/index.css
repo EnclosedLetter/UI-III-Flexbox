@@ -327,3 +327,12 @@ footer{
 ul li{
 	margin: 1em;
 }
+
+services-info-img{
+	flex: 1;
+}
+
+leftSection{
+	flex: 1;
+}
+
